@@ -1,0 +1,15 @@
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/bin/Debug/net7.0/JogoDaForca
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/bin/Debug/net7.0/JogoDaForca.deps.json
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/bin/Debug/net7.0/JogoDaForca.runtimeconfig.json
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/bin/Debug/net7.0/JogoDaForca.dll
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/bin/Debug/net7.0/JogoDaForca.pdb
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/obj/Debug/net7.0/JogoDaForca.csproj.AssemblyReference.cache
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/obj/Debug/net7.0/JogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/obj/Debug/net7.0/JogoDaForca.AssemblyInfoInputs.cache
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/obj/Debug/net7.0/JogoDaForca.AssemblyInfo.cs
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/obj/Debug/net7.0/JogoDaForca.csproj.CoreCompileInputs.cache
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/obj/Debug/net7.0/JogoDaForca.dll
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/obj/Debug/net7.0/refint/JogoDaForca.dll
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/obj/Debug/net7.0/JogoDaForca.pdb
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/obj/Debug/net7.0/JogoDaForca.genruntimeconfig.cache
+/Users/patricborges/Documents/dev_projects/CSharp/JogoDaForca/JogoDaForca/obj/Debug/net7.0/ref/JogoDaForca.dll

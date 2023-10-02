@@ -1,0 +1,15 @@
+/Users/patricborges/Projects/notastest/notastest/bin/Debug/net7.0/notastest
+/Users/patricborges/Projects/notastest/notastest/bin/Debug/net7.0/notastest.deps.json
+/Users/patricborges/Projects/notastest/notastest/bin/Debug/net7.0/notastest.runtimeconfig.json
+/Users/patricborges/Projects/notastest/notastest/bin/Debug/net7.0/notastest.dll
+/Users/patricborges/Projects/notastest/notastest/bin/Debug/net7.0/notastest.pdb
+/Users/patricborges/Projects/notastest/notastest/obj/Debug/net7.0/notastest.csproj.AssemblyReference.cache
+/Users/patricborges/Projects/notastest/notastest/obj/Debug/net7.0/notastest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patricborges/Projects/notastest/notastest/obj/Debug/net7.0/notastest.AssemblyInfoInputs.cache
+/Users/patricborges/Projects/notastest/notastest/obj/Debug/net7.0/notastest.AssemblyInfo.cs
+/Users/patricborges/Projects/notastest/notastest/obj/Debug/net7.0/notastest.csproj.CoreCompileInputs.cache
+/Users/patricborges/Projects/notastest/notastest/obj/Debug/net7.0/notastest.dll
+/Users/patricborges/Projects/notastest/notastest/obj/Debug/net7.0/refint/notastest.dll
+/Users/patricborges/Projects/notastest/notastest/obj/Debug/net7.0/notastest.pdb
+/Users/patricborges/Projects/notastest/notastest/obj/Debug/net7.0/notastest.genruntimeconfig.cache
+/Users/patricborges/Projects/notastest/notastest/obj/Debug/net7.0/ref/notastest.dll

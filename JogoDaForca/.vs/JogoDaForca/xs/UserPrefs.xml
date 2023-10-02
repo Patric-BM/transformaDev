@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DD9D9CF4-868F-4D32-98C1-D7F57D8B5A6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JogoDaForca/Program.cs">
+    <Files>
+      <File FileName="JogoDaForca/Program.cs" Line="213" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JogoDaForca" expanded="True">
+            <Node name="JogoDaForca" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JogoDaForca PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

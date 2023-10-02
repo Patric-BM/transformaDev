@@ -1,0 +1,15 @@
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/bin/Debug/net7.0/testsCs
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/bin/Debug/net7.0/testsCs.deps.json
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/bin/Debug/net7.0/testsCs.runtimeconfig.json
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/bin/Debug/net7.0/testsCs.dll
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/bin/Debug/net7.0/testsCs.pdb
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/obj/Debug/net7.0/testsCs.csproj.AssemblyReference.cache
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/obj/Debug/net7.0/testsCs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/obj/Debug/net7.0/testsCs.AssemblyInfoInputs.cache
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/obj/Debug/net7.0/testsCs.AssemblyInfo.cs
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/obj/Debug/net7.0/testsCs.csproj.CoreCompileInputs.cache
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/obj/Debug/net7.0/testsCs.dll
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/obj/Debug/net7.0/refint/testsCs.dll
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/obj/Debug/net7.0/testsCs.pdb
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/obj/Debug/net7.0/testsCs.genruntimeconfig.cache
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/testsCs/obj/Debug/net7.0/ref/testsCs.dll
