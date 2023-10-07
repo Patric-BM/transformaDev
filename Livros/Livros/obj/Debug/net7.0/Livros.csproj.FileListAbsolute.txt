@@ -1,0 +1,15 @@
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/obj/Debug/net7.0/Livros.csproj.AssemblyReference.cache
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/obj/Debug/net7.0/Livros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/obj/Debug/net7.0/Livros.AssemblyInfoInputs.cache
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/obj/Debug/net7.0/Livros.AssemblyInfo.cs
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/obj/Debug/net7.0/Livros.csproj.CoreCompileInputs.cache
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/bin/Debug/net7.0/Livros
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/bin/Debug/net7.0/Livros.deps.json
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/bin/Debug/net7.0/Livros.runtimeconfig.json
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/bin/Debug/net7.0/Livros.dll
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/bin/Debug/net7.0/Livros.pdb
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/obj/Debug/net7.0/Livros.dll
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/obj/Debug/net7.0/refint/Livros.dll
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/obj/Debug/net7.0/Livros.pdb
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/obj/Debug/net7.0/Livros.genruntimeconfig.cache
+/Users/patricborges/Documents/dev_projects/CSharp/TransformaDev/Livros/Livros/obj/Debug/net7.0/ref/Livros.dll
